@@ -1,6 +1,7 @@
 # backend
 
-backend/node_modules
+/backend/node_modules
+/backend/yarn.lock
 
 # web
 
@@ -27,6 +28,7 @@ backend/node_modules
 /web/npm-debug.log*
 /web/yarn-debug.log*
 /web/yarn-error.log*
+/web/yarn.lock
 
 # mobile
 
@@ -41,6 +43,7 @@ backend/node_modules
 /mobile/*.orig.*
 /mobile/web-build/
 /mobile/web-report/
+/mobile/yarn.lock
 
 # macOS
 /mobile/.DS_Store
