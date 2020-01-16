@@ -1,6 +1,7 @@
 # backend
 
 /backend/node_modules
+/backend/yarn.lock
 
 # web
 
@@ -27,3 +28,4 @@
 /web/npm-debug.log*
 /web/yarn-debug.log*
 /web/yarn-error.log*
+/web/yarn.lock
